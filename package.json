@@ -1,7 +1,6 @@
 {
   "name": "mine-sweeper",
   "homepage": "https://mine-sweep.vercel.app/",
-  "main": "index.js",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
