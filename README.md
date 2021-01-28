@@ -16,4 +16,4 @@ Game Play Logic and Computer Science
 
 
 ### Deployment
- [Site: ](https://mine-sweep.vercel.app/)
+ [ Mine Sweep Game ](https://mine-sweep.vercel.app/)
