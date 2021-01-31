@@ -2,7 +2,8 @@
 
 Game Play Logic and Computer Science 
 
-#### Deployed URL: https://mine-sweep.vercel.app/
+### Deployment
+ [ Mine Sweep Game ](https://mine-sweep.vercel.app/)
 
 ## Objective
 - Reveal all the squares without clicking on a bomb
@@ -17,5 +18,3 @@ Game Play Logic and Computer Science
 - The harder the level the larger the grid
 
 
-### Deployment
- [ Mine Sweep Game ](https://mine-sweep.vercel.app/)
